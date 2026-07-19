@@ -1,0 +1,13 @@
+FINAL GITHUB PAGES VERSION
+
+Your repository is now named VivanMehta.github.io, so the website runs at:
+https://vivanmehta.github.io/
+
+Upload all contents of this ZIP directly to the repository root and replace the current files.
+
+After committing:
+1. Wait for the Pages deployment in the Actions tab to show a green check.
+2. Open https://vivanmehta.github.io/
+3. Press Ctrl + Shift + R.
+
+This version uses /assets/... paths, which are correct for a username GitHub Pages repository.
